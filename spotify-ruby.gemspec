@@ -52,5 +52,5 @@ Gem::Specification.new do |spec|
 
   # Runtime Dependencies
   spec.add_runtime_dependency "activesupport", ">= 5.2.3"
-  spec.add_runtime_dependency "httparty", ">= 0.15.6", "< 0.18"
+  spec.add_runtime_dependency "httparty", ">= 0.15.6"
 end
